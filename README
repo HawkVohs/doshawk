@@ -1,0 +1,6 @@
+# DOS HAWK DoS
+Faça o Download do script doshawk no seu celular 
+abra o terminal e use o seguinte comando:
+ls
+gcc doshawk.c -o doshawk
+COMO USAR : ./doshawk www.site.com 80
